@@ -1,1 +1,31 @@
 /* De Bakkerij opdracht van Bryan Roy Von Rotz */
+
+:root {
+    /* main setings */
+    --main-primary: #D8BC69;
+    --main-prim-dark: #BF9D39;
+    --main-text: #1E1E20;
+    --white: #FFFFFF;
+
+    --logo: url(/src/img/Logo/logo.svg);
+}
+
+h1 {
+    font-family: Lato;
+    font-size: 80px;
+}
+
+h2 {
+    font-family: Lato;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: Lato;
+    font-size: 24px;
+}
+
+p {
+    font-family: Roboto;
+    font-size: 18px;
+}
